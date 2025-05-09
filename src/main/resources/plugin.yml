@@ -1,0 +1,6 @@
+name: StopMapRotation
+version: '1.0-RELEASE'
+main: com.orca.stopMapRotation.StopMapRotation
+api-version: '1.21'
+authors: [ Randomorca ]
+description: Those Pesky Players! Rotating your amazing map art even in adventure mode! Lets disable it!
