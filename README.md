@@ -4,6 +4,8 @@ A very simple, yet useful plugin for making players unable to rotate item frames
 
 places to download:
 github: [you are here]
+                        
 modrinth: https://modrinth.com/plugin/stop-map-rotation
+                            
 spigotmc: https://www.spigotmc.org/resources/stop-map-rotation.124876/
     
