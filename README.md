@@ -4,5 +4,5 @@
                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                      A very simple, yet useful plugin for making players unable to rotate item frames, to bypass the plugin, give yourself or the selected player, the "dev" tag
+                          A very simple, yet useful plugin for making players unable to rotate item frames, to bypass the plugin, give yourself or the selected player, the "dev" tag
     
